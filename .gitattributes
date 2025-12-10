@@ -1,7 +1,3 @@
-*.py linguist-language=python
 *.js linguist-language=Python
 *.css linguist-language=Python
-*.json linguist-language=Python
-*.cs linguist-language=Python
-*.md linguist-language=Python
-*.spec linguist-language=Python
+*.html linguist-language=Python
