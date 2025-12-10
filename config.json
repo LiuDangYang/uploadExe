@@ -1,0 +1,13 @@
+{
+  "tenantId": "1158",
+  "orgId": "1158030",
+  "uploadUrl": "https://myhis.everjiankang.cn/api/thc-tijian/notice/uploadFile",
+  "watchPath": "/Users/liufei/lf/ttt/a",
+  "movePath": "/Users/liufei/lf/ttt/c",
+  "fileExtensions": ".pdf",
+  "rule": "_",
+  "position": "2",
+  "level": 1,
+  "serviceCode": "111",
+  "autoStart": true
+}
